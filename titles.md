@@ -11,3 +11,6 @@ Untracked files:
 	titles.md
 
 nothing added to commit but untracked files present (use "git add" to track)
+[master 7274fef] B: add titles
+ 1 file changed, 13 insertions(+)
+ create mode 100644 titles.md
